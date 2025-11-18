@@ -41,3 +41,7 @@
 | 한지원 | 벡엔드, 프론트엔드, 디자인 |
 
 ---
+
+## 기획서
+
+[[Webridge]복지이음_LLM_RAG기반_개인맞춤형_음성복지서비스.pdf](https://github.com/user-attachments/files/23611929/Webridge._LLM_RAG._._.pdf)
